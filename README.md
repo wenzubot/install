@@ -1,8 +1,8 @@
 # Theme
 JANGAN DIJUAL BELAKAN YE BWANG !!!
 BUTUH LICENSE/PW CHAT TELE GUA
->> t.me/fadhost <<
+>> t.me/Ranzneweraa <<
 
 Comand Run Install Thema
 
-bash <(curl https://raw.githubusercontent.com/RafatharUserbotV4/Rafaxamalia/main/install.sh)
+bash <(curl https://raw.githubusercontent.com/wenzubot/install/main/install.sh)
